@@ -72,8 +72,10 @@ If previous methods were not helpful, then you can try disabling audio enhanceme
 6.Click Apply, OK. 
 ![Screenshot 2023-09-22 092939](https://github.com/s-adhithya/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/113497423/43ac4ffb-039f-44db-aee7-a64c1039aba2)
 
-If audio is not working on some specific apps, you go to the Advanced tab and uncheck Allow applications to take exclusive control of this device option. Click Apply, OK. 
+If audio is not working on some specific apps, you go to the Advanced tab and uncheck Allow applications to take exclusive control of this device option. Click Apply, OK.
+
+
 ![Screenshot 2023-09-22 093000](https://github.com/s-adhithya/OS-EX.3-TROUBLESHOOTING-OF-OS---CASE-STUDY/assets/113497423/f5214be4-8953-4922-9c1b-7f49d9a6e15e)
 
-RESULT :
+## RESULT :
 Troubleshooting of OS has been done successfuly.
